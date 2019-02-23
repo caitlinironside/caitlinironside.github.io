@@ -1,1 +1,5 @@
-www.caitlinironside.com
+$ dig docs.example.com +nostats +nocomments +nocmd
+> ;docs.example.com.                     IN      A
+> docs.example.com.              3592    IN      CNAME   caitlinironside.github.io.
+> caitlinironside.github.io.           43192   IN      CNAME  < GITHUB-PAGES-SERVER >.
+>   < GITHUB-PAGES-SERVER >.      22      IN      A       199.27.XX.XXX
