@@ -1,0 +1,49 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/**
+ * @license
+ * MyFonts Webfont Build ID 3485154, 2017-11-16T22:04:04-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Larsseit-Light by Type Dynamic
+ * URL: https://www.myfonts.com/fonts/typedynamic/larsseit/light/
+ * 
+ * Webfont: Larsseit-LightItalic by Type Dynamic
+ * URL: https://www.myfonts.com/fonts/typedynamic/larsseit/light-italic/
+ * 
+ * Webfont: Larsseit-Italic by Type Dynamic
+ * URL: https://www.myfonts.com/fonts/typedynamic/larsseit/italic/
+ * 
+ * Webfont: Larsseit by Type Dynamic
+ * URL: https://www.myfonts.com/fonts/typedynamic/larsseit/regular/
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3485154
+ * Licensed pageviews: 20,000
+ * Webfonts copyright: Copyright (c) 2013 by Type Dynamic. All rights reserved.
+ * 
+ * Â© 2017 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/352de2");
+
+  
+@font-face {font-family: 'Larsseit-Light';src: url('webfonts/352DE2_0_0.eot');src: url('webfonts/352DE2_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/352DE2_0_0.woff2') format('woff2'),url('webfonts/352DE2_0_0.woff') format('woff'),url('webfonts/352DE2_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Larsseit-LightItalic';src: url('webfonts/352DE2_1_0.eot');src: url('webfonts/352DE2_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/352DE2_1_0.woff2') format('woff2'),url('webfonts/352DE2_1_0.woff') format('woff'),url('webfonts/352DE2_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Larsseit-Italic';src: url('webfonts/352DE2_2_0.eot');src: url('webfonts/352DE2_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/352DE2_2_0.woff2') format('woff2'),url('webfonts/352DE2_2_0.woff') format('woff'),url('webfonts/352DE2_2_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Larsseit';src: url('webfonts/352DE2_3_0.eot');src: url('webfonts/352DE2_3_0.eot?#iefix') format('embedded-opentype'),url('webfonts/352DE2_3_0.woff2') format('woff2'),url('webfonts/352DE2_3_0.woff') format('woff'),url('webfonts/352DE2_3_0.ttf') format('truetype');}
+ 

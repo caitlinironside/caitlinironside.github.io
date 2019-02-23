@@ -1,0 +1,140 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@charset "UTF-8";
+/* CSS Document */
+
+<link rel="stylesheet" type="text/css" href="MyFontsWebfontsKit/MyFontsWebfontsKit.css">
+
+/* entypo */
+[class*="entypo-"]:before {
+  font-family: 'Larsseit-Light';
+}
+
+* {
+	width: 100%;
+	margin: auto;
+	font-size: 100%;
+	}
+
+header section {
+			width: 1024px;
+			margin: auto;
+			display: inline-block;
+			vertical-align: middle;
+			font-family: 'Larsseit-Light';
+			}
+
+header #return {
+		text-decoration: none;
+		color: rgba(0, 0, 0, 1);
+		}
+
+header section h1 {display: inline-block;
+				text-align: center;
+				font-size: 40px;
+				width: 250px;}
+
+header section #logo{display: inline-block;
+					float: right;
+					width: 400px;
+					padding-right: 65px;
+					margin-top: 30px;
+					}
+
+header nav {width: 1024px;
+			margin: auto;
+			text-align: center;
+				}
+header nav ul{
+			display: inline-block;
+			margin-top: 20px;
+}
+
+header nav ul li {width: 150px;
+				display: inline-block;
+font-family: 'Larsseit-Light';
+				font-size: 17px;
+				}
+
+a {text-decoration: none;
+color: black;}
+
+#about, #portfolio, #contact, #resume {text-decoration: none;
+										color: black;
+										border-bottom: 1px solid rgba(255,255,255,0.00);
+			
+										}
+
+#about:hover {
+		color: rgba(90, 59, 76, 1.00);
+		border-bottom: 1px solid rgba(90, 59, 76, 1.00);
+		transition-duration: 1s;
+		transition: ease-in-out;
+		transform-origin: center;
+		-webkit-transition: 1s ease-in-out;
+		}
+
+#portfolio:hover {
+		color: rgba(90, 59, 76, 1.00);
+		border-bottom: 1px solid rgba(90, 59, 76, 1.00);
+		transition-duration: 0.5s;
+		transition: ease-in-out;
+		-webkit-transition: 1s ease-in-out;
+			}
+
+#resume {		color: rgba(90, 59, 76, 1.00);
+		border-bottom: 1px solid rgba(90, 59, 76, 1.00);
+			}
+
+#contact:hover {
+				transition-duration: 0.5s;
+				transition: ease-in-out;
+		color: rgba(90, 59, 76, 1.00);
+		border-bottom: 1px solid rgba(90, 59, 76, 1.00);
+				-webkit-transition: 1s ease-in-out;
+	
+					}
+
+#resume:hover {transition-duration: 0.5s;
+				transition: ease-in-out;
+				-webkit-transition: 1s ease-in-out;
+				color: rgba(90, 59, 76, 1.00);
+				border-bottom: 1px solid rgba(90, 59, 76, 1.00);
+				}
+
+main {
+		padding-top: 50px;
+		padding-bottom: 80px;
+		}
+
+
+footer{
+		width: 100%;
+		height: 100px;
+		font-family: "Larsseit-Light", "Poppins-Light", sans-serif;
+		border-top: rgba(152,152,152,0.5) 1px solid;
+		}
+
+footer span {display: inline-block;
+			width: 30px;
+			margin-top: 40px;
+			padding-bottom: 30px;}
+
+footer p{
+		text-align: center;
+		padding-top: 30px;
+		color: rgba(152,152,152,0.5);
+}
+
+.links{color: rgba(152,152,152,0.5)}
+
+footer div {
+				width: 100px;
+				margin: auto;
+				text-align: center;
+}
+
+footer .links:hover {color: rgba(90, 59, 76, 1.00);
+					transition-duration: 0.5s;
+						}
