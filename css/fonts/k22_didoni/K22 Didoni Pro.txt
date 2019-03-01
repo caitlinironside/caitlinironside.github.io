@@ -1,0 +1,20 @@
+Pro Version of K22 Didoni
+
+I combined K22 Didoni and K22 Didoni Swash into a single Open Type font. 
+The font was not redrawn, only merged. The characters in the swash font, 
+including those that were in the Private Use Area, are now available as 
+OpenType feature. 
+
+This font is only available to those who will make a donation for K22 Didoni. 
+The font will only be sent to the email address that made the donation. You 
+can make the donation by clicking on the donate button at
+
+  http://www.dafont.com/k22-didoni.font
+
+
+I also created another "pro" version of the font with a complete Latin 1 
+character set. This version has a total of 307 glyphs. However, this version
+is only available at my discretion.
+
+Toto
+31 August 2015
