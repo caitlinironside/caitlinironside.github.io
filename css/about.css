@@ -6,7 +6,7 @@
 
 
 body{
-	background-color: #e5c898;
+	background-color: #eedbbd;
 	font-size: 50px;
 	line-height: 60px;
 	letter-spacing: 2px;
@@ -31,6 +31,7 @@ body{
 	font-size: 15px;
 	line-height: 20px;
 	text-align: left;
+	color: #633b27;
 }
 
 #awards{
@@ -45,7 +46,7 @@ body{
 
 #aboutme a {
 text-decoration: underline;
-	color: #633b27;
+	color: #633b27
 }
 
 #aboutme a:hover {

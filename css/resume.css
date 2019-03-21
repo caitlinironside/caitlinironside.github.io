@@ -2,14 +2,14 @@
 /* CSS Document */
 
 body{
-	background-color: #e5c898;
+	background-color: #eedbbd;
 	letter-spacing: 2px;
 	padding: 0px;
 		color: #ac602b;
 
 }
 
-header nav {width: 1024px;
+header nav {width: 100%;
 			margin: auto;
 			text-align: center;
 				}
@@ -18,7 +18,7 @@ header nav ul{
 			margin-top: 30px;
 }
 
-header nav ul li {width: 180px;
+header nav ul li {width: 10.24%;
 				display: inline-block;
 				font-family: NeueLight;
 				letter-spacing: 1px;
@@ -71,7 +71,7 @@ color: #e1a945;
 				
 /*Center the weird text*/
 #weirdtext{
-	max-width: 1024px;
+	max-width: 100%;
 	display: block;
 	margin: 30px auto 0px auto;
 	font-family: Didoni;
@@ -158,10 +158,10 @@ color: #ad602b;
 		-webkit-transition: 1s ease-in-out;
 		}
 
-#portfolio:hover {
+#portfolio:hover {;;;;ol
 color: #e1a945;
 		border-bottom: 1px solid #da863a;
-		transition-duration: 0.5s;
+		transition-duration: 0.5s;m ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,dr/;;;;;;;;;
 		transition: ease-in-out;
 		-webkit-transition: 1s ease-in-out;
 			}
@@ -183,6 +183,7 @@ color: #e1a945;
 #resume:hover {transition-duration: 0.5s;
 				border-bottom: 1px solid #ad602b;
 				transition: ease-in-out;
+				border-bottom: 1px solid #da863a;
 				-webkit-transition: 1s ease-in-out;
 				color: #e1a945;
 				}
